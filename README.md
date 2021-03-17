@@ -3,3 +3,9 @@ React-Native app using expo-cli, Yup and Formik forms, apisauce linked to a node
 
 
 # [Backend of the Project](https://github.com/himansh-gjr/SELLEY-Backend---Node)
+
+
+To install dependencies `npm i`
+
+
+start the server by `expo start` or `npm start`
