@@ -4,11 +4,10 @@ A Marketplace app for the stuff you don't need anymore.
 
 React-Native app using expo-cli, Yup and Formik forms, apisauce linked to a node backend server. An offline support, data stored in cache, modulable components hooks and personalised routes. Animations with Lottie. Authentication, login/register, navigable screens and notifications.
 
----
+
 
 ## Sreenshots of the Selley Application
 
-<p>
 <img width="200px" src="./app/assets/screenshots/20210330_195049.jpg"/>
 
 <img width="200px" src="./app/assets/screenshots/20210330_195108.jpg"/>
@@ -28,8 +27,7 @@ React-Native app using expo-cli, Yup and Formik forms, apisauce linked to a node
 <img width="200px" src="./app/assets/screenshots/20210330_195246.jpg"/>
 
 <img width="200px" src="./app/assets/screenshots/20210330_195258.jpg"/>
-<p>
----
+
 
 # Setup of the project
 
