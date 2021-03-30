@@ -8,26 +8,27 @@ React-Native app using expo-cli, Yup and Formik forms, apisauce linked to a node
 
 ## Sreenshots of the Selley Application
 
-<img width="500px" src="./app/assets/screenshots/20210330_195049.jpg"/>
+<p>
+<img width="200px" src="./app/assets/screenshots/20210330_195049.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195108.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195108.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195123.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195123.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195152.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195152.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195139.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195139.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195206.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195206.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195218.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195218.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195231.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195231.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195246.jpg"/>
+<img width="200px" src="./app/assets/screenshots/20210330_195246.jpg"/>
 
-<img width="500px" src="./app/assets/screenshots/20210330_195258.jpg"/>
-
+<img width="200px" src="./app/assets/screenshots/20210330_195258.jpg"/>
+<p>
 ---
 
 # Setup of the project
