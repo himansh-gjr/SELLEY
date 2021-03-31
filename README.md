@@ -42,8 +42,11 @@ change the directory `cd SELLEY`
 replace ipAddress to your current ip address here [app/config/settings.js](https://github.com/himansh-gjr/SELLEY/blob/main/app/config/settings.js)
 
 *make sure you have expo-cli installed, if not then install by using following cmd*
+
 install the command line tools for expo `npm install --global expo-cli`
 
 After installing expo-cli install dependencies and run the project
+
 To install dependencies `npm i`
+
 start the server by `expo start` or `npm start`
